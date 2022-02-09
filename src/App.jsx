@@ -1,10 +1,10 @@
 import React from 'react';
-import Service from './Service';
+import Search from './Search';
 
 function App() {
   return (
     <>
-      <Service/>
+      <Search/>
     </>
   )
 }
